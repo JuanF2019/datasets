@@ -1,2 +1,2 @@
 # datasets
-Some datasets using for AI
+Some datasets for AI
